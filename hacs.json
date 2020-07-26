@@ -1,0 +1,4 @@
+{
+  "name": "ADS: Set ADS bool variable to 1 if HA entity has given state",
+  "render_readme": true,
+}
